@@ -1,5 +1,4 @@
-# Open Source Project; early contributions by Raúl Gómez Acuña (thank you; open source respect)
-# Further contributions by Asper Technologies engineering team 
+# Open Source Project from Raúl Gómez Acuña forked and modified to support Asper Technologies prototype (Android BLE)
 
 # heart-rate-monitor
 Asper Tech Android prototype, composed of an Android and Web applications working together as a whole.
