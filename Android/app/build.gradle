@@ -5,7 +5,7 @@ android {
     buildToolsVersion "21.1.2"
 
     defaultConfig {
-        applicationId "com.rauliyohmc.heartratemonitor"
+        applicationId "com.aspertech.heartratemonitor"
         minSdkVersion 18
         targetSdkVersion 21
         versionCode 1

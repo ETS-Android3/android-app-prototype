@@ -1,4 +1,4 @@
-package com.rauliyohmc.heartratemonitor.service;
+package com.aspertech.heartratemonitor.service;
 
 import android.app.Service;
 import android.bluetooth.BluetoothAdapter;
@@ -23,7 +23,7 @@ import java.util.List;
 import java.util.UUID;
 
 /**
- * Created by rauliyohmc on 05/03/15.
+ * Updated for Asper Tech
  */
 
 /**
@@ -49,15 +49,15 @@ public class BluetoothLeService extends Service {
     private static final int STATE_CONNECTED = 2;
 
     public final static String ACTION_GATT_CONNECTED =
-            "com.rauliyohmc.heartratemonitor.ACTION_GATT_CONNECTED";
+            "com.aspertech.heartratemonitor.ACTION_GATT_CONNECTED";
     public final static String ACTION_GATT_DISCONNECTED =
-            "com.rauliyohmc.heartratemonitor.ACTION_GATT_DISCONNECTED";
+            "com.aspertech.heartratemonitor.ACTION_GATT_DISCONNECTED";
     public final static String ACTION_GATT_SERVICES_DISCOVERED =
-            "com.rauliyohmc.heartratemonitor.ACTION_GATT_SERVICES_DISCOVERED";
+            "com.aspertech.heartratemonitor.ACTION_GATT_SERVICES_DISCOVERED";
     public final static String ACTION_DATA_AVAILABLE =
-            "com.rauliyohmc.heartratemonitor.ACTION_DATA_AVAILABLE";
+            "com.aspertech.heartratemonitor.ACTION_DATA_AVAILABLE";
     public final static String EXTRA_DATA =
-            "com.rauliyohmc.heartratemonitor.EXTRA_DATA";
+            "com.aspertech.heartratemonitor.EXTRA_DATA";
 
     public final static UUID UUID_HEART_RATE_MEASUREMENT =
             UUID.fromString(GattHeartRateAttributes.UUID_HEART_RATE_MEASUREMENT);

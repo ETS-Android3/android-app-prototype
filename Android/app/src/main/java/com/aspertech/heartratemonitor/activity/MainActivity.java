@@ -1,4 +1,4 @@
-package com.rauliyohmc.heartratemonitor.activity;
+package com.aspertech.heartratemonitor.activity;
 
 import android.app.Activity;
 import android.bluetooth.BluetoothAdapter;
@@ -29,7 +29,7 @@ import com.rauliyohmc.heartratemonitor.R;
 import java.util.ArrayList;
 
 /**
- * Created by rauliyohmc on 05/03/15.
+ * Updated for Asper Technologies
  */
 
 

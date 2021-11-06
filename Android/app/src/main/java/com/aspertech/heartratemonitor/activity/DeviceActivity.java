@@ -1,4 +1,4 @@
-package com.rauliyohmc.heartratemonitor.activity;
+package com.aspertech.heartratemonitor.activity;
 
 import android.bluetooth.BluetoothGattCharacteristic;
 import android.bluetooth.BluetoothGattService;
@@ -30,7 +30,7 @@ import java.util.HashMap;
 import java.util.List;
 
 /**
- * Created by rauliyohmc on 05/03/15.
+ * Updated for Asper Technologies
  */
 
 /**

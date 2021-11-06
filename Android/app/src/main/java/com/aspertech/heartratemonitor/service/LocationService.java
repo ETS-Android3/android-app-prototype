@@ -1,4 +1,4 @@
-package com.rauliyohmc.heartratemonitor.service;
+package com.aspertech.heartratemonitor.service;
 
 import android.app.Service;
 import android.content.Intent;
@@ -16,7 +16,7 @@ import com.google.android.gms.location.LocationServices;
 import com.rauliyohmc.heartratemonitor.util.HttpConnection;
 
 /**
- * Created by Rauliyohmc on 12/05/15.
+ * Updated for Asper Tech
  */
 public class LocationService extends Service implements GoogleApiClient.ConnectionCallbacks, GoogleApiClient.OnConnectionFailedListener{
 

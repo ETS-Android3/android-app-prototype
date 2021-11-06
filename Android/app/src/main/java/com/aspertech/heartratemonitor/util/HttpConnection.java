@@ -1,4 +1,4 @@
-package com.rauliyohmc.heartratemonitor.util;
+package com.aspertech.heartratemonitor.util;
 
 import android.util.Log;
 
@@ -15,7 +15,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 
 /**
- * Created by Rauliyohmc on 12/05/15.
+ * Updated for Asper Tech
  */
 public class HttpConnection {
 

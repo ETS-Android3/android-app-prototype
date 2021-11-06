@@ -1,9 +1,9 @@
-package com.rauliyohmc.heartratemonitor.util;
+package com.aspertech.heartratemonitor.util;
 
 import java.util.HashMap;
 
 /**
- * Created by rauliyohmc on 07/03/15.
+ * Updated for Asper Tech
  */
 public class GattHeartRateAttributes {
     private static HashMap<String, String> attributes = new HashMap();
